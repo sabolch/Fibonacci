@@ -15,4 +15,4 @@ def fibonacci(x):
     print(golden_ratio)
 
 
-fibonacci(20)
+fibonacci(19)
